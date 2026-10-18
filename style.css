@@ -230,5 +230,4 @@ html, body {
 
 @media (max-width: 420px) {
   .clock { font-size: 4rem; }
-  .wrap { padding: 48px 20px 60px; }
-}
+  .wrap { padding: 48px 20px 60px }
